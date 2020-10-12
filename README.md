@@ -39,32 +39,32 @@ $object->makeAwesome($data);
  
 ## Dokumentacja
  
-To find out how to use this library follow [Documentation](http://link-to-documentation).
+Moja dokumentacja dotycząca pracy w domu na zajęciach tworzenie i aplikacji
  
 ## Instalacja
  
-You can install it with Composer:
+Instalacja została wykonana na zajęciach.
+
+Możesz zainstalowac to z kompozytorium
  
 ```
-composer require vendor/project
+https://github.com/BOJANNNN/wb02ti4
 ```
  
-## Funkcje
+## Cel i Funkcje
  
-* Can make this and this
-* Helps with some other problew
-* Is awesome
+ * Zbiór elementów pracy w domu
+ * Możliwość pomocy kolegów z zaspołu projektowego
+ * Nadzór kierownika projektu
  
-## Przyczynie się
+## Wkład projektowy
  
-* Issue Tracker: github.com/vendor/project/issues
-* Source Code: github.com/vendor/project
-* Tests: phpunit
+* Główny nadzór: https://github.com/BOJANNNN
+* Kod projektu:  https://github.com/BOJANNNN
  
 ## Licencja
- 
-This project is released under the MIT Licence. See the bundled LICENSE file for details.
+ Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje można znaleźć w dołączonym pliku LICENCJA.
  
 ## Autor
  
-John Doe
+Wiktor Bojanowski
